@@ -1,0 +1,16 @@
+Machine Description............... Dell Networking Switch
+System Model ID................... N2048P
+Machine Type...................... Dell Networking N2048P
+Serial Number..................... XXXXXXXXXXXXXXXXXXXXXX
+Manufacturer...................... 0xbc00
+Burned In MAC Address............. AAAA.AAAAA.AAAA
+System Object ID.................. 1.3.6.1.4.1.674.10895.3056
+SOC Version....................... BCM56340_A0
+HW Version........................ 5
+CPLD Version...................... 13
+
+unit active      backup      current-active next-active
+---- ----------- ----------- -------------- --------------
+1    6.2.7.2     6.2.6.6     6.2.7.2        6.2.7.2
+2    6.2.7.2     6.2.6.6     6.2.7.2        6.2.7.2
+3    6.2.7.2     6.2.6.6     6.2.7.2        6.2.7.2

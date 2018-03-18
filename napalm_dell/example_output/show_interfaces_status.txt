@@ -1,0 +1,288 @@
+
+rt      Description                    Duplex Speed   Neg  MTU   Admin
+                                                                   State
+--------- ------------------------------ ------ ------- ---- ----- -----
+Gi1/0/1   idrac6.vmhost1                 Full   100     Auto 1518  Up
+Gi1/0/2   idrac8.vmhost2                 Full   1000    Auto 1518  Up
+Gi1/0/3   apc.eth                        Full   100     Auto 1518  Up
+Gi1/0/4   Auserswald-TK                  Full   100     Auto 1518  Up
+Gi1/0/5   conf1                          Full   1000    Auto 1518  Up
+Gi1/0/6                                  N/A    Unknown Auto 1518  Up
+Gi1/0/7   office8                        Full   1000    Auto 1518  Up
+Gi1/0/8   office2                        Full   1000    Auto 1518  Up
+Gi1/0/9                                  N/A    Unknown Auto 1518  Up
+Gi1/0/10  cad3                           Full   10      Auto 1518  Up
+Gi1/0/11  office5                        N/A    Unknown Auto 1518  Up
+Gi1/0/12                                 N/A    Unknown Auto 1518  Up
+Gi1/0/13                                 N/A    Unknown Auto 1518  Up
+Gi1/0/14  cad8                           Full   1000    Auto 1518  Up
+Gi1/0/15  office4                        N/A    Unknown Auto 1518  Up
+Gi1/0/16  office7                        Full   100     Auto 1518  Up
+Gi1/0/17  office3                        N/A    Unknown Auto 1518  Up
+Gi1/0/18  field1                         N/A    Unknown Auto 1518  Up
+Gi1/0/19                                 N/A    Unknown Auto 1518  Up
+Gi1/0/20                                 N/A    Unknown Auto 1518  Up
+Gi1/0/21                                 N/A    Unknown Auto 1518  Up
+Gi1/0/22  field1                         N/A    Unknown Auto 1518  Up
+Gi1/0/23  office6                        N/A    Unknown Auto 1518  Up
+Gi1/0/24  cad5                           Full   1000    Auto 1518  Up
+Gi1/0/25  vankesteren10                  Full   1000    Auto 1518  Up
+Gi1/0/26  lager1                         Full   10      Auto 1518  Up
+Gi1/0/27  wahl10                         Full   10      Auto 1518  Up
+Gi1/0/28  nas1                           Full   1000    Auto 1518  Up
+Gi1/0/29  office1                        N/A    Unknown Auto 1518  Up
+Gi1/0/30  cad1                           Full   1000    Auto 1518  Up
+Gi1/0/31                                 N/A    Unknown Auto 1518  Up
+Gi1/0/32  field2                         N/A    Unknown Auto 1518  Up
+Gi1/0/33  office10                       Full   1000    Auto 1518  Up
+Gi1/0/34                                 N/A    Unknown Auto 1518  Up
+Gi1/0/35  cad2                           Full   10      Auto 1518  Up
+Gi1/0/36  nas2                           Full   1000    Auto 1518  Up
+Gi1/0/37  cad4                           Full   1000    Auto 1518  Up
+Gi1/0/38  guestVL.dediz                  N/A    Unknown Auto 1518  Up
+Gi1/0/39  ap1                            Full   100     Auto 1518  Up
+Gi1/0/40  ap2                            Full   100     Auto 1518  Up
+Gi1/0/41  ap3                            Full   100     Auto 1518  Up
+Gi1/0/42  trunc.vmhost1                  Full   1000    Auto 1518  Up
+Gi1/0/43  trunc.vmhost2                  Full   1000    Auto 1518  Up
+Gi1/0/44  VL52.nas1                      Full   1000    Auto 1518  Up
+Gi1/0/45  VL52.nas2                      Full   1000    Auto 1518  Up
+Gi1/0/46  VL52.vmhost1                   Full   1000    Auto 1518  Up
+Gi1/0/47  VL52.vmhost2                   Full   1000    Auto 1518  Up
+Gi1/0/48  trunc.fd-rtr                   Full   1000    Auto 1518  Up
+Te1/0/1                                  Full   10000   Off  1518  Up
+Te1/0/2                                  Full   10000   Off  1518  Up
+Gi2/0/1                                  N/A    Unknown Auto 1518  Up
+Gi2/0/2                                  Full   1000    Auto 1518  Up
+Gi2/0/3                                  Full   1000    Auto 1518  Up
+Gi2/0/4                                  N/A    Unknown Auto 1518  Up
+Gi2/0/5   bh20off6                       Full   100     Auto 1518  Up
+Gi2/0/6                                  N/A    Unknown Auto 1518  Up
+Gi2/0/7   ch25kud1                       N/A    Unknown Auto 1518  Up
+Gi2/0/8   bh57mfc1                       Full   100     Auto 1518  Up
+Gi2/0/9   spare01 temp                   N/A    Unknown Auto 1518  Up
+Gi2/0/10                                 N/A    Unknown Auto 1518  Up
+Gi2/0/11                                 N/A    Unknown Auto 1518  Up
+Gi2/0/12                                 N/A    Unknown Auto 1518  Up
+Gi2/0/13                                 N/A    Unknown Auto 1518  Up
+Gi2/0/14                                 N/A    Unknown Auto 1518  Up
+Gi2/0/15                                 N/A    Unknown Auto 1518  Up
+Gi2/0/16                                 N/A    Unknown Auto 1518  Up
+Gi2/0/17                                 N/A    Unknown Auto 1518  Up
+Gi2/0/18                                 N/A    Unknown Auto 1518  Up
+Gi2/0/19                                 N/A    Unknown Auto 1518  Up
+Gi2/0/20                                 N/A    Unknown Auto 1518  Up
+Gi2/0/21                                 N/A    Unknown Auto 1518  Up
+Gi2/0/22                                 N/A    Unknown Auto 1518  Up
+Gi2/0/23                                 N/A    Unknown Auto 1518  Up
+Gi2/0/24                                 N/A    Unknown Auto 1518  Up
+Gi2/0/25                                 N/A    Unknown Auto 1518  Up
+Gi2/0/26                                 N/A    Unknown Auto 1518  Up
+Gi2/0/27                                 N/A    Unknown Auto 1518  Up
+Gi2/0/28                                 N/A    Unknown Auto 1518  Up
+Gi2/0/29                                 N/A    Unknown Auto 1518  Up
+Gi2/0/30                                 N/A    Unknown Auto 1518  Up
+Gi2/0/31                                 N/A    Unknown Auto 1518  Up
+Gi2/0/32                                 N/A    Unknown Auto 1518  Up
+Gi2/0/33                                 N/A    Unknown Auto 1518  Up
+Gi2/0/34  mh22ges1                       Full   100     Auto 1518  Up
+Gi2/0/35  bh22off1                       N/A    Unknown Auto 1518  Up
+Gi2/0/36  ch71ges1                       Full   100     Auto 1518  Up
+Gi2/0/37  hh60ges1                       Full   1000    Auto 1518  Up
+Gi2/0/38                                 N/A    Unknown Auto 1518  Up
+Gi2/0/39                                 N/A    Unknown Auto 1518  Up
+Gi2/0/40                                 N/A    Unknown Auto 1518  Up
+Gi2/0/41                                 N/A    Unknown Auto 1518  Up
+Gi2/0/42                                 N/A    Unknown Auto 1518  Up
+Gi2/0/43                                 N/A    Unknown Auto 1518  Up
+Gi2/0/44                                 N/A    Unknown Auto 1518  Up
+Gi2/0/45                                 N/A    Unknown Auto 1518  Up
+Gi2/0/46                                 N/A    Unknown Auto 1518  Up
+Gi2/0/47                                 N/A    Unknown Auto 1518  Up
+Gi2/0/48                                 N/A    Unknown Auto 1518  Up
+Te2/0/1                                  Full   10000   Off  1518  Up
+Te2/0/2                                  Full   10000   Off  1518  Up
+Gi3/0/1                                  N/A    Unknown Auto 1518  Up
+Gi3/0/2                                  N/A    Unknown Auto 1518  Up
+Gi3/0/3                                  N/A    Unknown Auto 1518  Up
+Gi3/0/4                                  N/A    Unknown Auto 1518  Up
+Gi3/0/5                                  N/A    Unknown Auto 1518  Up
+Gi3/0/6                                  N/A    Unknown Auto 1518  Up
+Gi3/0/7                                  N/A    Unknown Auto 1518  Up
+Gi3/0/8                                  N/A    Unknown Auto 1518  Up
+Gi3/0/9                                  N/A    Unknown Auto 1518  Up
+Gi3/0/10                                 N/A    Unknown Auto 1518  Up
+Gi3/0/11                                 N/A    Unknown Auto 1518  Up
+Gi3/0/12                                 N/A    Unknown Auto 1518  Up
+Gi3/0/13                                 N/A    Unknown Auto 1518  Up
+Gi3/0/14                                 N/A    Unknown Auto 1518  Up
+Gi3/0/15                                 N/A    Unknown Auto 1518  Up
+Gi3/0/16                                 N/A    Unknown Auto 1518  Up
+Gi3/0/17                                 N/A    Unknown Auto 1518  Up
+Gi3/0/18                                 N/A    Unknown Auto 1518  Up
+Gi3/0/19                                 N/A    Unknown Auto 1518  Up
+Gi3/0/20                                 N/A    Unknown Auto 1518  Up
+Gi3/0/21                                 N/A    Unknown Auto 1518  Up
+Gi3/0/22                                 N/A    Unknown Auto 1518  Up
+Gi3/0/23                                 N/A    Unknown Auto 1518  Up
+Gi3/0/24                                 N/A    Unknown Auto 1518  Up
+Gi3/0/25                                 N/A    Unknown Auto 1518  Down
+Gi3/0/26                                 N/A    Unknown Auto 1518  Up
+Gi3/0/27                                 N/A    Unknown Auto 1518  Up
+Gi3/0/28                                 N/A    Unknown Auto 1518  Up
+Gi3/0/29                                 N/A    Unknown Auto 1518  Up
+Gi3/0/30                                 N/A    Unknown Auto 1518  Up
+Gi3/0/31                                 N/A    Unknown Auto 1518  Up
+Gi3/0/32                                 N/A    Unknown Auto 1518  Up
+Gi3/0/33                                 N/A    Unknown Auto 1518  Up
+Gi3/0/34                                 N/A    Unknown Auto 1518  Up
+Gi3/0/35                                 N/A    Unknown Auto 1518  Up
+Gi3/0/36                                 N/A    Unknown Auto 1518  Up
+Gi3/0/37                                 N/A    Unknown Auto 1518  Up
+Gi3/0/38                                 N/A    Unknown Auto 1518  Up
+Gi3/0/39                                 N/A    Unknown Auto 1518  Up
+Gi3/0/40                                 N/A    Unknown Auto 1518  Up
+Gi3/0/41                                 N/A    Unknown Auto 1518  Up
+Gi3/0/42                                 N/A    Unknown Auto 1518  Up
+Gi3/0/43                                 N/A    Unknown Auto 1518  Up
+Gi3/0/44                                 N/A    Unknown Auto 1518  Up
+Gi3/0/45                                 N/A    Unknown Auto 1518  Up
+Gi3/0/46                                 N/A    Unknown Auto 1518  Up
+Gi3/0/47                                 N/A    Unknown Auto 1518  Up
+Gi3/0/48                                 N/A    Unknown Auto 1518  Up
+Te3/0/1                                  Full   10000   Off  1518  Up
+Te3/0/2                                  Full   10000   Off  1518  Up
+
+
+Port    Description                    MTU   Admin
+Channel                                      State
+------- ------------------------------ ----- -----
+Po1                                    1518  Up
+Po2                                    1518  Up
+Po3                                    1518  Up
+Po4                                    1518  Up
+Po5                                    1518  Up
+Po6                                    1518  Up
+Po7                                    1518  Up
+Po8                                    1518  Up
+Po9                                    1518  Up
+Po10                                   1518  Up
+Po11                                   1518  Up
+Po12                                   1518  Up
+Po13                                   1518  Up
+Po14                                   1518  Up
+Po15                                   1518  Up
+Po16                                   1518  Up
+Po17                                   1518  Up
+Po18                                   1518  Up
+Po19                                   1518  Up
+Po20                                   1518  Up
+Po21                                   1518  Up
+Po22                                   1518  Up
+Po23                                   1518  Up
+Po24                                   1518  Up
+Po25                                   1518  Up
+Po26                                   1518  Up
+Po27                                   1518  Up
+Po28                                   1518  Up
+Po29                                   1518  Up
+Po30                                   1518  Up
+Po31                                   1518  Up
+Po32                                   1518  Up
+Po33                                   1518  Up
+Po34                                   1518  Up
+Po35                                   1518  Up
+Po36                                   1518  Up
+Po37                                   1518  Up
+Po38                                   1518  Up
+Po39                                   1518  Up
+Po40                                   1518  Up
+Po41                                   1518  Up
+Po42                                   1518  Up
+Po43                                   1518  Up
+Po44                                   1518  Up
+Po45                                   1518  Up
+Po46                                   1518  Up
+Po47                                   1518  Up
+Po48                                   1518  Up
+Po49                                   1518  Up
+Po50                                   1518  Up
+Po51                                   1518  Up
+Po52                                   1518  Up
+Po53                                   1518  Up
+Po54                                   1518  Up
+Po55                                   1518  Up
+Po56                                   1518  Up
+Po57                                   1518  Up
+Po58                                   1518  Up
+Po59                                   1518  Up
+Po60                                   1518  Up
+Po61                                   1518  Up
+Po62                                   1518  Up
+Po63                                   1518  Up
+Po64                                   1518  Up
+Po65                                   1518  Up
+Po66                                   1518  Up
+Po67                                   1518  Up
+Po68                                   1518  Up
+Po69                                   1518  Up
+Po70                                   1518  Up
+Po71                                   1518  Up
+Po72                                   1518  Up
+Po73                                   1518  Up
+Po74                                   1518  Up
+Po75                                   1518  Up
+Po76                                   1518  Up
+Po77                                   1518  Up
+Po78                                   1518  Up
+Po79                                   1518  Up
+Po80                                   1518  Up
+Po81                                   1518  Up
+Po82                                   1518  Up
+Po83                                   1518  Up
+Po84                                   1518  Up
+Po85                                   1518  Up
+Po86                                   1518  Up
+Po87                                   1518  Up
+Po88                                   1518  Up
+Po89                                   1518  Up
+Po90                                   1518  Up
+Po91                                   1518  Up
+Po92                                   1518  Up
+Po93                                   1518  Up
+Po94                                   1518  Up
+Po95                                   1518  Up
+Po96                                   1518  Up
+Po97                                   1518  Up
+Po98                                   1518  Up
+Po99                                   1518  Up
+Po100                                  1518  Up
+Po101                                  1518  Up
+Po102                                  1518  Up
+Po103                                  1518  Up
+Po104                                  1518  Up
+Po105                                  1518  Up
+Po106                                  1518  Up
+Po107                                  1518  Up
+Po108                                  1518  Up
+Po109                                  1518  Up
+Po110                                  1518  Up
+Po111                                  1518  Up
+Po112                                  1518  Up
+Po113                                  1518  Up
+Po114                                  1518  Up
+Po115                                  1518  Up
+Po116                                  1518  Up
+Po117                                  1518  Up
+Po118                                  1518  Up
+Po119                                  1518  Up
+Po120                                  1518  Up
+Po121                                  1518  Up
+Po122                                  1518  Up
+Po123                                  1518  Up
+Po124                                  1518  Up
+Po125                                  1518  Up
+Po126                                  1518  Up
+Po127                                  1518  Up
+Po128                                  1518  Up
+

@@ -1,0 +1,389 @@
+Interface Name : .............................. Gi2/0/22
+SOC Hardware Info :............................ BCM56340_A0
+Link Status : ................................. Down
+VLAN Membership Mode: ......................... Access Mode
+VLAN Membership: .............................. 48
+MTU Size : .................................... 1518
+Port Mode [Duplex] : .......................... N/A
+Port Speed : .................................. Unknown
+Link Debounce Flaps : ......................... 0
+Auto-Negotation Status : ...................... Auto
+Burned MAC Address : .......................... F48E.3841.9627
+L3 MAC Address................................. F48E.3841.9628
+Sample load interval : ........................ 300
+Received Input Rate Bits/Sec : ................ 0
+Received Input Rate Packets/Sec : ............. 0
+Transmitted Input Rate Bits/Sec : ............. 0
+Transmitted Input Rate Packets/Sec : .......... 0
+Total Packets Received Without Errors.......... 0
+Unicast Packets Received....................... 0
+Multicast Packets Received..................... 0
+Broadcast Packets Received..................... 0
+Total Packets Received with MAC Errors......... 0
+Jabbers Received............................... 0
+Fragments/Undersize Received................... 0
+Alignment Errors............................... 0
+FCS Errors..................................... 0
+Overruns....................................... 0
+Total Received Packets Not Forwarded........... 0
+Total Packets Transmitted Successfully......... 0
+Unicast Packets Transmitted.................... 0
+Multicast Packets Transmitted.................. 0
+Broadcast Packets Transmitted.................. 0
+Transmit Packets Discarded..................... 0
+Total Transmit Errors.......................... 0
+Total Transmit Packets Discarded............... 0
+Single Collision Frames........................ 0
+Multiple Collision Frames...................... 0
+Excessive Collision Frames..................... 0
+
+Interface Name : .............................. Gi2/0/23
+SOC Hardware Info :............................ BCM56340_A0
+Link Status : ................................. Down
+VLAN Membership Mode: ......................... Access Mode
+VLAN Membership: .............................. 48
+MTU Size : .................................... 1518
+Port Mode [Duplex] : .......................... N/A
+Port Speed : .................................. Unknown
+Link Debounce Flaps : ......................... 0
+Auto-Negotation Status : ...................... Auto
+Burned MAC Address : .......................... F48E.3841.9627
+L3 MAC Address................................. F48E.3841.9628
+Sample load interval : ........................ 300
+Received Input Rate Bits/Sec : ................ 0
+Received Input Rate Packets/Sec : ............. 0
+Transmitted Input Rate Bits/Sec : ............. 0
+Transmitted Input Rate Packets/Sec : .......... 0
+Total Packets Received Without Errors.......... 0
+Unicast Packets Received....................... 0
+Multicast Packets Received..................... 0
+Broadcast Packets Received..................... 0
+Total Packets Received with MAC Errors......... 0
+Jabbers Received............................... 0
+Fragments/Undersize Received................... 0
+Alignment Errors............................... 0
+FCS Errors..................................... 0
+Overruns....................................... 0
+Total Received Packets Not Forwarded........... 0
+Total Packets Transmitted Successfully......... 0
+Unicast Packets Transmitted.................... 0
+Multicast Packets Transmitted.................. 0
+Broadcast Packets Transmitted.................. 0
+Transmit Packets Discarded..................... 0
+Total Transmit Errors.......................... 0
+Total Transmit Packets Discarded............... 0
+Single Collision Frames........................ 0
+Multiple Collision Frames...................... 0
+Excessive Collision Frames..................... 0
+
+Interface Name : .............................. Gi2/0/24
+SOC Hardware Info :............................ BCM56340_A0
+Link Status : ................................. Down
+VLAN Membership Mode: ......................... Access Mode
+VLAN Membership: .............................. 48
+MTU Size : .................................... 1518
+Port Mode [Duplex] : .......................... N/A
+Port Speed : .................................. Unknown
+Link Debounce Flaps : ......................... 0
+Auto-Negotation Status : ...................... Auto
+Burned MAC Address : .......................... F48E.3841.9627
+L3 MAC Address................................. F48E.3841.9628
+Sample load interval : ........................ 300
+Received Input Rate Bits/Sec : ................ 0
+Received Input Rate Packets/Sec : ............. 0
+Transmitted Input Rate Bits/Sec : ............. 0
+Transmitted Input Rate Packets/Sec : .......... 0
+Total Packets Received Without Errors.......... 0
+Unicast Packets Received....................... 0
+Multicast Packets Received..................... 0
+Broadcast Packets Received..................... 0
+Total Packets Received with MAC Errors......... 0
+Jabbers Received............................... 0
+Fragments/Undersize Received................... 0
+Alignment Errors............................... 0
+FCS Errors..................................... 0
+Overruns....................................... 0
+Total Received Packets Not Forwarded........... 0
+Total Packets Transmitted Successfully......... 0
+Unicast Packets Transmitted.................... 0
+Multicast Packets Transmitted.................. 0
+Broadcast Packets Transmitted.................. 0
+Transmit Packets Discarded..................... 0
+Total Transmit Errors.......................... 0
+Total Transmit Packets Discarded............... 0
+Single Collision Frames........................ 0
+Multiple Collision Frames...................... 0
+Excessive Collision Frames..................... 0
+
+Interface Name : .............................. Gi2/0/25
+SOC Hardware Info :............................ BCM56340_A0
+Link Status : ................................. Down
+VLAN Membership Mode: ......................... Access Mode
+VLAN Membership: .............................. 48
+MTU Size : .................................... 1518
+Port Mode [Duplex] : .......................... N/A
+Port Speed : .................................. Unknown
+Link Debounce Flaps : ......................... 0
+Auto-Negotation Status : ...................... Auto
+Burned MAC Address : .......................... F48E.3841.9627
+L3 MAC Address................................. F48E.3841.9628
+Sample load interval : ........................ 300
+Received Input Rate Bits/Sec : ................ 0
+Received Input Rate Packets/Sec : ............. 0
+Transmitted Input Rate Bits/Sec : ............. 0
+Transmitted Input Rate Packets/Sec : .......... 0
+Total Packets Received Without Errors.......... 0
+Unicast Packets Received....................... 0
+Multicast Packets Received..................... 0
+Broadcast Packets Received..................... 0
+Total Packets Received with MAC Errors......... 0
+Jabbers Received............................... 0
+Fragments/Undersize Received................... 0
+Alignment Errors............................... 0
+FCS Errors..................................... 0
+Overruns....................................... 0
+Total Received Packets Not Forwarded........... 0
+Total Packets Transmitted Successfully......... 0
+Unicast Packets Transmitted.................... 0
+Multicast Packets Transmitted.................. 0
+Broadcast Packets Transmitted.................. 0
+Transmit Packets Discarded..................... 0
+Total Transmit Errors.......................... 0
+Total Transmit Packets Discarded............... 0
+Single Collision Frames........................ 0
+Multiple Collision Frames...................... 0
+Excessive Collision Frames..................... 0
+
+Interface Name : .............................. Gi2/0/26
+SOC Hardware Info :............................ BCM56340_A0
+Link Status : ................................. Down
+VLAN Membership Mode: ......................... Access Mode
+VLAN Membership: .............................. 48
+MTU Size : .................................... 1518
+Port Mode [Duplex] : .......................... N/A
+Port Speed : .................................. Unknown
+Link Debounce Flaps : ......................... 0
+Auto-Negotation Status : ...................... Auto
+Burned MAC Address : .......................... F48E.3841.9627
+L3 MAC Address................................. F48E.3841.9628
+Sample load interval : ........................ 300
+Received Input Rate Bits/Sec : ................ 0
+Received Input Rate Packets/Sec : ............. 0
+Transmitted Input Rate Bits/Sec : ............. 0
+Transmitted Input Rate Packets/Sec : .......... 0
+Total Packets Received Without Errors.......... 0
+Unicast Packets Received....................... 0
+Multicast Packets Received..................... 0
+Broadcast Packets Received..................... 0
+Total Packets Received with MAC Errors......... 0
+Jabbers Received............................... 0
+Fragments/Undersize Received................... 0
+Alignment Errors............................... 0
+FCS Errors..................................... 0
+Overruns....................................... 0
+Total Received Packets Not Forwarded........... 0
+Total Packets Transmitted Successfully......... 0
+Unicast Packets Transmitted.................... 0
+Multicast Packets Transmitted.................. 0
+Broadcast Packets Transmitted.................. 0
+Transmit Packets Discarded..................... 0
+Total Transmit Errors.......................... 0
+Total Transmit Packets Discarded............... 0
+Single Collision Frames........................ 0
+Multiple Collision Frames...................... 0
+Excessive Collision Frames..................... 0
+
+Interface Name : .............................. Gi2/0/27
+SOC Hardware Info :............................ BCM56340_A0
+Link Status : ................................. Down
+VLAN Membership Mode: ......................... Access Mode
+VLAN Membership: .............................. 48
+MTU Size : .................................... 1518
+Port Mode [Duplex] : .......................... N/A
+Port Speed : .................................. Unknown
+Link Debounce Flaps : ......................... 0
+Auto-Negotation Status : ...................... Auto
+Burned MAC Address : .......................... F48E.3841.9627
+L3 MAC Address................................. F48E.3841.9628
+Sample load interval : ........................ 300
+Received Input Rate Bits/Sec : ................ 0
+Received Input Rate Packets/Sec : ............. 0
+Transmitted Input Rate Bits/Sec : ............. 0
+Transmitted Input Rate Packets/Sec : .......... 0
+Total Packets Received Without Errors.......... 0
+Unicast Packets Received....................... 0
+Multicast Packets Received..................... 0
+Broadcast Packets Received..................... 0
+Total Packets Received with MAC Errors......... 0
+Jabbers Received............................... 0
+Fragments/Undersize Received................... 0
+Alignment Errors............................... 0
+FCS Errors..................................... 0
+Overruns....................................... 0
+Total Received Packets Not Forwarded........... 0
+Total Packets Transmitted Successfully......... 0
+Unicast Packets Transmitted.................... 0
+Multicast Packets Transmitted.................. 0
+Broadcast Packets Transmitted.................. 0
+Transmit Packets Discarded..................... 0
+Total Transmit Errors.......................... 0
+Total Transmit Packets Discarded............... 0
+Single Collision Frames........................ 0
+Multiple Collision Frames...................... 0
+Excessive Collision Frames..................... 0
+
+Interface Name : .............................. Gi2/0/28
+SOC Hardware Info :............................ BCM56340_A0
+Link Status : ................................. Down
+VLAN Membership Mode: ......................... Access Mode
+VLAN Membership: .............................. 48
+MTU Size : .................................... 1518
+Port Mode [Duplex] : .......................... N/A
+Port Speed : .................................. Unknown
+Link Debounce Flaps : ......................... 0
+Auto-Negotation Status : ...................... Auto
+Burned MAC Address : .......................... F48E.3841.9627
+L3 MAC Address................................. F48E.3841.9628
+Sample load interval : ........................ 300
+Received Input Rate Bits/Sec : ................ 0
+Received Input Rate Packets/Sec : ............. 0
+Transmitted Input Rate Bits/Sec : ............. 0
+Transmitted Input Rate Packets/Sec : .......... 0
+Total Packets Received Without Errors.......... 0
+Unicast Packets Received....................... 0
+Multicast Packets Received..................... 0
+Broadcast Packets Received..................... 0
+Total Packets Received with MAC Errors......... 0
+Jabbers Received............................... 0
+Fragments/Undersize Received................... 0
+Alignment Errors............................... 0
+FCS Errors..................................... 0
+Overruns....................................... 0
+Total Received Packets Not Forwarded........... 0
+Total Packets Transmitted Successfully......... 0
+Unicast Packets Transmitted.................... 0
+Multicast Packets Transmitted.................. 0
+Broadcast Packets Transmitted.................. 0
+Transmit Packets Discarded..................... 0
+Total Transmit Errors.......................... 0
+Total Transmit Packets Discarded............... 0
+Single Collision Frames........................ 0
+Multiple Collision Frames...................... 0
+Excessive Collision Frames..................... 0
+
+Interface Name : .............................. Gi2/0/29
+SOC Hardware Info :............................ BCM56340_A0
+Link Status : ................................. Down
+VLAN Membership Mode: ......................... Access Mode
+VLAN Membership: .............................. 48
+MTU Size : .................................... 1518
+Port Mode [Duplex] : .......................... N/A
+Port Speed : .................................. Unknown
+Link Debounce Flaps : ......................... 0
+Auto-Negotation Status : ...................... Auto
+Burned MAC Address : .......................... F48E.3841.9627
+L3 MAC Address................................. F48E.3841.9628
+Sample load interval : ........................ 300
+Received Input Rate Bits/Sec : ................ 0
+Received Input Rate Packets/Sec : ............. 0
+Transmitted Input Rate Bits/Sec : ............. 0
+Transmitted Input Rate Packets/Sec : .......... 0
+Total Packets Received Without Errors.......... 0
+Unicast Packets Received....................... 0
+Multicast Packets Received..................... 0
+Broadcast Packets Received..................... 0
+Total Packets Received with MAC Errors......... 0
+Jabbers Received............................... 0
+Fragments/Undersize Received................... 0
+Alignment Errors............................... 0
+FCS Errors..................................... 0
+Overruns....................................... 0
+Total Received Packets Not Forwarded........... 0
+Total Packets Transmitted Successfully......... 0
+Unicast Packets Transmitted.................... 0
+Multicast Packets Transmitted.................. 0
+Broadcast Packets Transmitted.................. 0
+Transmit Packets Discarded..................... 0
+Total Transmit Errors.......................... 0
+Total Transmit Packets Discarded............... 0
+Single Collision Frames........................ 0
+Multiple Collision Frames...................... 0
+Excessive Collision Frames..................... 0
+
+Interface Name : .............................. Gi2/0/30
+SOC Hardware Info :............................ BCM56340_A0
+Link Status : ................................. Down
+VLAN Membership Mode: ......................... Access Mode
+VLAN Membership: .............................. 48
+MTU Size : .................................... 1518
+Port Mode [Duplex] : .......................... N/A
+Port Speed : .................................. Unknown
+Link Debounce Flaps : ......................... 0
+Auto-Negotation Status : ...................... Auto
+Burned MAC Address : .......................... F48E.3841.9627
+L3 MAC Address................................. F48E.3841.9628
+Sample load interval : ........................ 300
+Received Input Rate Bits/Sec : ................ 0
+Received Input Rate Packets/Sec : ............. 0
+Transmitted Input Rate Bits/Sec : ............. 0
+Transmitted Input Rate Packets/Sec : .......... 0
+Total Packets Received Without Errors.......... 0
+Unicast Packets Received....................... 0
+Multicast Packets Received..................... 0
+Broadcast Packets Received..................... 0
+Total Packets Received with MAC Errors......... 0
+Jabbers Received............................... 0
+Fragments/Undersize Received................... 0
+Alignment Errors............................... 0
+FCS Errors..................................... 0
+Overruns....................................... 0
+Total Received Packets Not Forwarded........... 0
+Total Packets Transmitted Successfully......... 0
+Unicast Packets Transmitted.................... 0
+Multicast Packets Transmitted.................. 0
+Broadcast Packets Transmitted.................. 0
+Transmit Packets Discarded..................... 0
+Total Transmit Errors.......................... 0
+Total Transmit Packets Discarded............... 0
+Single Collision Frames........................ 0
+Multiple Collision Frames...................... 0
+Excessive Collision Frames..................... 0
+
+Interface Name : .............................. Gi2/0/31
+SOC Hardware Info :............................ BCM56340_A0
+Link Status : ................................. Down
+VLAN Membership Mode: ......................... Access Mode
+VLAN Membership: .............................. 48
+MTU Size : .................................... 1518
+Port Mode [Duplex] : .......................... N/A
+Port Speed : .................................. Unknown
+Link Debounce Flaps : ......................... 0
+Auto-Negotation Status : ...................... Auto
+Burned MAC Address : .......................... F48E.3841.9627
+L3 MAC Address................................. F48E.3841.9628
+Sample load interval : ........................ 300
+Received Input Rate Bits/Sec : ................ 0
+Received Input Rate Packets/Sec : ............. 0
+Transmitted Input Rate Bits/Sec : ............. 0
+Transmitted Input Rate Packets/Sec : .......... 0
+Total Packets Received Without Errors.......... 0
+Unicast Packets Received....................... 0
+Multicast Packets Received..................... 0
+Broadcast Packets Received..................... 0
+Total Packets Received with MAC Errors......... 0
+Jabbers Received............................... 0
+Fragments/Undersize Received................... 0
+Alignment Errors............................... 0
+FCS Errors..................................... 0
+Overruns....................................... 0
+Total Received Packets Not Forwarded........... 0
+Total Packets Transmitted Successfully......... 0
+Unicast Packets Transmitted.................... 0
+Multicast Packets Transmitted.................. 0
+Broadcast Packets Transmitted.................. 0
+Transmit Packets Discarded..................... 0
+Total Transmit Errors.......................... 0
+Total Transmit Packets Discarded............... 0
+Single Collision Frames........................ 0
+Multiple Collision Frames...................... 0
+Excessive Collision Frames..................... 0

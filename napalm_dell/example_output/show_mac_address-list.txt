@@ -1,0 +1,60 @@
+show mac address-table 
+
+Aging time is 300 Sec
+
+Vlan     Mac Address           Type        Port
+-------- --------------------- ----------- ---------------------
+1        0025.90C2.88ED        Dynamic     Gi1/0/48
+1        0027.22B4.C0A8        Dynamic     Gi1/0/40
+1        0027.22B4.C0AF        Dynamic     Gi1/0/41
+1        0027.22B4.C13B        Dynamic     Gi1/0/39
+1        00C0.B799.C27B        Dynamic     Gi1/0/3
+1        1866.DA6A.F23E        Dynamic     Gi1/0/2
+1        626B.2D59.255D        Dynamic     Gi1/0/43
+1        84D4.7EC4.6094        Dynamic     Gi2/0/2
+1        84D4.7EC4.6110        Dynamic     Gi2/0/3
+1        AAE0.31EB.6D14        Dynamic     Gi1/0/43
+1        D4AE.5275.3BE3        Dynamic     Gi1/0/42
+1        D4AE.5275.3BE5        Dynamic     Gi1/0/1
+1        F48E.3841.9628        Management  Vl1
+48       0000.859B.742A        Dynamic     Gi2/0/36
+48       0008.9BCB.648E        Dynamic     Gi1/0/36
+48       0008.9BCB.657E        Dynamic     Gi1/0/28
+48       001F.C69B.A722        Dynamic     Gi1/0/5
+48       0020.6BA2.FCD4        Dynamic     Gi2/0/34
+48       0025.90C2.88ED        Dynamic     Gi1/0/48
+48       0080.77CA.3428        Dynamic     Gi2/0/5
+48       00FF.0B65.E8C5        Dynamic     Gi1/0/48
+48       0605.51ED.CADD        Dynamic     Gi1/0/43
+48       1866.DA2B.135D        Dynamic     Gi1/0/10
+48       1866.DA6A.F23A        Dynamic     Gi1/0/43
+48       3005.5CC1.7B76        Dynamic     Gi2/0/8
+48       3417.EBB0.0B88        Dynamic     Gi1/0/14
+48       3417.EBB9.BEA0        Dynamic     Gi1/0/7
+48       38EA.A769.B3E3        Dynamic     Gi2/0/37
+48       509A.4C51.7CC0        Dynamic     Gi1/0/26
+48       92A4.A4AA.7970        Dynamic     Gi1/0/42
+48       B8CA.3A87.5C0A        Dynamic     Gi1/0/24
+48       B8CA.3AAD.6452        Dynamic     Gi1/0/8
+48       B8CA.3AAD.EA8B        Dynamic     Gi1/0/25
+48       BE17.5D02.A686        Dynamic     Gi1/0/48
+48       D2B6.AB90.3D6C        Dynamic     Gi1/0/43
+48       D4AE.5275.3BE3        Dynamic     Gi1/0/42
+48       EE09.673B.96D3        Dynamic     Gi1/0/43
+48       EECE.1DA0.26B8        Dynamic     Gi1/0/43
+48       F8B1.569F.4015        Dynamic     Gi1/0/30
+48       F8B1.569F.45CA        Dynamic     Gi1/0/37
+51       0025.90C2.88ED        Dynamic     Gi1/0/48
+51       444E.6D02.DBCA        Dynamic     Gi1/0/48
+51       444E.6D02.DBCB        Dynamic     Gi1/0/48
+51       A6B6.FF3E.8244        Dynamic     Gi1/0/43
+51       F6C4.C4B3.B3A9        Dynamic     Gi1/0/42
+52       0008.9BCB.648F        Dynamic     Gi1/0/45
+52       0008.9BCB.657F        Dynamic     Gi1/0/44
+52       1263.1F1E.1BCD        Dynamic     Gi1/0/47
+52       1866.DA6A.F23B        Dynamic     Gi1/0/47
+52       D4AE.5275.3BE4        Dynamic     Gi1/0/46
+52       EED9.7D68.8936        Dynamic     Gi1/0/46
+
+Total MAC Addresses in use: 51
+

@@ -1,0 +1,4 @@
+*.pyc
+build/
+dist/
+napalm_dell.egg-info/
