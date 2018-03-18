@@ -12,4 +12,3 @@ except pkg_resources.DistributionNotFound:
     __version__ = "Not installed"
 
 __all__ = ('DNOS6Driver', )
-
